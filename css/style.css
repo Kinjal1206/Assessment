@@ -5,8 +5,8 @@
 
 .card-body div .btn{
     background-color: lemonchiffon;
-    color: yellowgreen;
+    color: orange;
     height: 30px;
     font-size: 10px;
-    margin-left: 30%;
+    font-weight: bold;
 }
